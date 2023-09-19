@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33829.357
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "caProvaEx1", "caProvaEx1.csproj", "{A0703A6F-FA33-449F-8ABA-91788A57D652}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A0703A6F-FA33-449F-8ABA-91788A57D652}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A0703A6F-FA33-449F-8ABA-91788A57D652}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A0703A6F-FA33-449F-8ABA-91788A57D652}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A0703A6F-FA33-449F-8ABA-91788A57D652}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BA9BD3E8-5815-4B5E-AAB4-6825FF0132F9}
+	EndGlobalSection
+EndGlobal
